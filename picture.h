@@ -1,0 +1,6 @@
+#ifndef INCLUDED_PICTURE_H
+#define INCLUDED_PICTURE_H
+
+
+
+#endif
